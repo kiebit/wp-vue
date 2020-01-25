@@ -1,0 +1,22 @@
+{
+  "name": "wp-vue",
+  "version": "1.0.0",
+  "description": "WP Vue Simple Blogging Theme With WordPress",
+  "main": "src/main.js",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "bulma": "^0.8.0",
+    "normalize.css": "^8.0.1",
+    "vue": "^2.6.11",
+    "vue-cli": "^2.9.6",
+    "vuex": "^3.1.2",
+    "webpack": "^4.41.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
