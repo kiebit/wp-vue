@@ -4,7 +4,7 @@
   "description": "WP Vue Simple Blogging Theme With WordPress",
   "main": "src/main.js",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "bulma": "^0.8.0",
     "normalize.css": "^8.0.1",
     "vue": "^2.6.11",
